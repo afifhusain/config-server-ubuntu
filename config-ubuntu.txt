@@ -1,1 +1,1 @@
-Konfigurasi Ubuntu Server 20.04.2
+Konfigurasi Ubuntu Server 20.04.2 update
